@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<action-recipes>
+	
+	<!-- HTML actions -->
+
+<action id="com.saewitz.sugar.french-press.beautify" category="frenchpress.root/0">
+	<script>french-press.js</script>
+	<language-context>js</language-context>
+  <key-equivalent>control alt arrow-up</key-equivalent>
+</action>
+
+</action-recipes>

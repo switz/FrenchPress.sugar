@@ -4,7 +4,11 @@ A javascript action that beautifies javascript files into formatted code:
 
 * Uses the library from jsbeautifier.org
 
-* To activate use Actions->Javascript menu or press Control+Alt+ArrowUp
+* To run use Actions->Javascript menu or press `Control + Alt + Arrow Up`
+
+* This will not fix 
+
+* This is beta software, please backup your code in advance. You may _undo_ the action by pressing `command+z` (or Edit->Undo)
 
 ## Installation
 
@@ -32,7 +36,24 @@ hi@danielsaewitz.com
 **1.0**:
 
 * Initial release
-* Beautify Javascript using menu or key-combo
+* Beautify Javascript using menu or key-combo (`Control + Alt + Arrow Up`)
+* Will automatically match your Espresso tab settings (# of spaces, spaces or tabs)
+
+## Thanks to:
+
+* Ian Beck
+---------------
+
+This could not have been completed without the [Handy.sugar](http://github.com/onecrayon/Handy.sugar.git) source code
+
+* JS Beautifier
+---------------
+
+Written by [Einar Lielmanis](mailto:einar@jsbeautifier.org)
+	http://jsbeautifier.org/
+
+Originally converted to javascript by [Vital](mailto:vital76@gmail.com)
+"End braces on own line" added by [Chris J. Shull](mailto:chrisjshull@gmail.com)
 
 ## MIT License
 
