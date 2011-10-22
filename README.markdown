@@ -19,7 +19,7 @@ The easiest way to install FrenchPress.sugar currently is directly from GitHub:
     cd ~/Library/Application\ Support/Espresso/Sugars
     git clone git://github.com/switz213/FrenchPress.sugar
 
-https://github.com/switz213/Javascript-French-Press
+https://github.com/switz213/FrenchPress.sugar
 
 Relaunch Espresso, and a new Javascript submenu will be available in your Actions menu .
 
