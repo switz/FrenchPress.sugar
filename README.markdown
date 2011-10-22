@@ -6,7 +6,7 @@ A javascript action that beautifies javascript files into formatted code:
 
 * To run use Actions->Javascript menu or press `Control + Alt + Arrow Up`
 
-* This will not fix 
+* This will not fix syntactically incorrect documents
 
 * This is beta software, please backup your code in advance. You may _undo_ the action by pressing `command+z` (or Edit->Undo)
 
@@ -21,7 +21,7 @@ The easiest way to install FrenchPress.sugar currently is directly from GitHub:
 
 https://github.com/switz213/FrenchPress.sugar
 
-Relaunch Espresso, and a new Javascript submenu will be available in your Actions menu .
+Relaunch Espresso, and a new Javascript submenu will be available in your Actions menu.
 
 ## Development
 
