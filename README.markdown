@@ -6,7 +6,7 @@ A javascript action that beautifies javascript files into formatted code:
 
 * To run use Actions->Javascript menu or press `Control + Alt + Arrow Up`
 
-* This will not fix syntactically incorrect documents
+* This will not fix 
 
 * This is beta software, please backup your code in advance. You may _undo_ the action by pressing `command+z` (or Edit->Undo)
 
