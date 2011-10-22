@@ -1,0 +1,45 @@
+# FrenchPress.sugar
+
+A javascript action that beautifies javascript files into formatted code:
+
+* Uses the library from jsbeautifier.org
+
+* To activate use Actions->Javascript menu or press Control+Alt+ArrowUp
+
+## Installation
+
+**Requires Espresso 2.0**
+
+The easiest way to install FrenchPress.sugar currently is directly from GitHub:
+
+    cd ~/Library/Application\ Support/Espresso/Sugars
+    git clone git://github.com/switz213/Javascript-French-Press.sugar.git
+
+https://github.com/switz213/Javascript-French-Press
+
+Relaunch Espresso, and a new Javascript submenu will be available in your Actions menu .
+
+## Development
+
+Handy.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
+
+You may email me if you have any feedback, requests, or run across any problems.
+
+hi@danielsaewitz.com
+
+## Changelog
+
+**1.0**:
+
+* Initial release
+* Beautify Javascript using menu or key-combo
+
+## MIT License
+
+Copyright (c) 2011 Daniel Saewitz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
