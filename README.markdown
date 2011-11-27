@@ -25,7 +25,7 @@ Relaunch Espresso, and a new Javascript submenu will be available in your Action
 
 ## Development
 
-Handy.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
+FrenchPress.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
 
 You may email me if you have any feedback, requests, or run across any problems.
 
