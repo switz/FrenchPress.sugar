@@ -6,10 +6,6 @@
 		<script>barista-html.js</script>
 		<language-context>html</language-context>
 		<key-equivalent>control alt cmd b</key-equivalent>
-		<setup>
-			<input>selection</input>
-			<alternate>document</alternate>
-		</setup>
 	</action>
 	
 	<!-- CSS actions -->
@@ -17,10 +13,6 @@
 		<script>barista-css.js</script>
 		<language-context>css, less</language-context>
 		<key-equivalent>control alt cmd b</key-equivalent>
-		<setup>
-			<input>selection</input>
-			<alternate>document</alternate>
-		</setup>
 	</action>
 	
 	<!-- JS actions -->
@@ -28,9 +20,5 @@
 		<script>barista-js.js</script>
 		<language-context>js</language-context>
 		<key-equivalent>control alt cmd b</key-equivalent>
-		<setup>
-			<input>selection</input>
-			<alternate>document</alternate>
-		</setup>
 	</action>
 </action-recipes>
