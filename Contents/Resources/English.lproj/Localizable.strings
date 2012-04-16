@@ -1,3 +1,3 @@
-"frenchpress.root.title" = "Javascript";
-
-"com.saewitz.sugar.french-press.beautify.title" = "Beautify";
+"com.jancbeck.sugar.barista.html.title" = "Beautify Markup";
+"com.jancbeck.sugar.barista.css.title" = "Beautify Stylesheet";
+"com.jancbeck.sugar.barista.js.title" = "Beautify JavaScript";
