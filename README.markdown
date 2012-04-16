@@ -29,6 +29,7 @@ Relaunch Espresso, and a new Action will be available in your Actions menu.
 If you do not have a selection, the entire document will be processed.
 
 ## Development
+
 Barista-Beautifier.sugar is a fork of [FrenchPress.sugar](http://github.com/switz213/FrenchPress.sugar) by switz213 who did all the hard work. This sugar basically just extends the support for HTML und CSS. The library by JS Beautifier is nearly untouched except that global variables JS have been removed. Espresso doesn't seem to like them very much.
 
 Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
@@ -57,8 +58,7 @@ I'm using have a dozen of his sugars and his community work is fantastic.
 
 I did not believe this was possible until I saw [Frenchpress.sugar](http://github.com/switz213/FrenchPress.sugar).
 
-* JS Beautifier
----------------
+## JS Beautifier
 
 Written by [Einar Lielmanis](mailto:einar@jsbeautifier.org)
 	http://jsbeautifier.org/
