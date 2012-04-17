@@ -36,8 +36,7 @@ Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espress
 
 ## To do
 
-* Allow formatting options through sugar preferences panel
-* Seperate CSS property and value by spacing. List grouped CSS rules in seperate lines.
+* Seperate CSS property and value by spacing. List grouped CSS rules on seperate lines.
 * Don't display text-level inline HTML elements in seperate lines.
 
 ## Changelog
