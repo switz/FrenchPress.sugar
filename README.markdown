@@ -35,7 +35,7 @@ Barista-Beautifier.sugar is a fork of [FrenchPress.sugar](http://github.com/swit
 Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
 
 ## To do
-
+* Add PHP support
 * Seperate CSS property and value by spacing. List grouped CSS rules on seperate lines.
 * Don't display text-level inline HTML elements in seperate lines.
 
