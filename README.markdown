@@ -30,7 +30,7 @@ If you do not have a selection, the entire document will be processed.
 
 ## Development
 
-Barista-Beautifier.sugar is a fork of [FrenchPress.sugar](http://github.com/switz213/FrenchPress.sugar) by switz213 who did all the hard work. This sugar basically just extends the support for HTML und CSS. The library by JS Beautifier is nearly untouched except that global variables JS have been removed. Espresso doesn't seem to like them very much.
+Barista-Beautifier.sugar is a fork of [FrenchPress.sugar](http://github.com/switz/FrenchPress.sugar) by switz who did all the hard work. This sugar basically just extends the support for HTML und CSS. The library by JS Beautifier is nearly untouched except that global variables JS have been removed. Espresso doesn't seem to like them very much.
 
 Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
 
@@ -43,7 +43,7 @@ Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espress
 
 **1.0**:
 
-* Initial release forked from [Frenchpress.sugar](http://github.com/switz213/FrenchPress.sugar)
+* Initial release forked from [Frenchpress.sugar](http://github.com/switz/FrenchPress.sugar)
 * Beautify HTML, CSS and JS using the menu or key-combo (`Control + Alt + Cmd + B`)
 * Will automatically match your Espresso tab settings (# of spaces, spaces or tabs)
 
@@ -55,7 +55,7 @@ I'm using have a dozen of his sugars and his community work is fantastic.
 
 ### Daniel Saewitz
 
-I did not believe this was possible until I saw [Frenchpress.sugar](http://github.com/switz213/FrenchPress.sugar).
+I did not believe this was possible until I saw [Frenchpress.sugar](http://github.com/switz/FrenchPress.sugar).
 
 ## JS Beautifier
 
