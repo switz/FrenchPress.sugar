@@ -2,7 +2,7 @@
 
 A javascript action that beautifies javascript files into formatted code:
 
-** Note: This project is no longer under development. It might work for you, but I can't guarantee anything. Good luck!**
+**Note: This project is no longer under development. It might work for you, but I can't guarantee anything. Good luck!**
 
 * Uses the library from jsbeautifier.org
 
